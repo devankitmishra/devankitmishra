@@ -65,22 +65,14 @@ Feel free to reach out to me at **ankitmishrapuri@gmail.com.** I'm always open t
 </p>
 
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
 
-<!--icons and links-->
 
 
 
 <!--profile visit count-->
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=devankitmishra&label=Profile%20Visits&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
   
 </div>
 
