@@ -69,7 +69,7 @@ Feel free to reach out to me at **ankitmishrapuri@gmail.com.** I'm always open t
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord.py,express,figma,firebase,github,html,java,js,linux,md,mongodb,mysql,nodejs,postman,py,react,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,express,figma,firebase,github,html,java,js,linux,md,mongodb,mysql,nodejs,postman,discord,py,react,tailwind,vscode&perline=14" />
   </a>
 </p>
 
