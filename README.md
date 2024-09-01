@@ -46,12 +46,8 @@ Feel free to reach out to me at **ankitmishrapuri@gmail.com.** I'm always open t
 </tr>
 </table>
 <!--- stats (end) -->
-
 </p>        
-<!--- stats (end) -->
 
-
-<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">My Tech Stacks👨🏻‍💻</h2></summary>
@@ -64,18 +60,4 @@ Feel free to reach out to me at **ankitmishrapuri@gmail.com.** I'm always open t
   </a>
 </p>
 
-
-
-
-
-
-<!--profile visit count-->
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=devankitmishra&label=Profile%20Visits&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
-  
-</div>
-
-
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
